@@ -17,7 +17,7 @@ Setup
 
 Usage
 -------  
-  python simmusicplayer.py<br>
+  python main.py<br>
   Select your music folder<br>
   the music will start playing automatically<br>
   see the console for more operations
