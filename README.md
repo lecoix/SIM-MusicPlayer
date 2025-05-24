@@ -4,23 +4,23 @@ This is a simple command-line music player built with Python and Pygame.It suppo
 
 Requirements
 -------  
-#Python 3.x\n
-pygame(pip install pygame)\n
-wcswidth (pip install wcswidth)\n
+        Python 3.x
+        pygame(pip install pygame)
+        wcswidth (pip install wcswidth)
 
 Setup
 -------  
-Clone repository
-Install dependencies:
-pip install pygame
-pip install pillow
+        Clone repository
+        Install dependencies:
+        pip install pygame
+        pip install pillow
 
 Usage
 -------  
-python simmusicplayer.py
-Select your music folder
-The music will start playing automatically.
-see the console for more operations.
+        python simmusicplayer.py
+        Select your music folder
+        The music will start playing automatically.
+        see the console for more operations.
 
     
  
