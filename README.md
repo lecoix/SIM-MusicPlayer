@@ -4,9 +4,9 @@ This is a simple command-line music player built with Python and Pygame.It suppo
 
 Requirements
 -------  
-#Python 3.x
-pygame(pip install pygame)
-wcswidth (pip install wcswidth)
+#Python 3.x/n
+pygame(pip install pygame)/n
+wcswidth (pip install wcswidth)/n
 
 Setup
 -------  
