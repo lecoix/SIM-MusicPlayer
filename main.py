@@ -157,13 +157,6 @@ class MusicPlayer:
     def monitor_playback(self):
         # Monitor music playback in a background thread.
         while True:
-            if not self.paused and not pygame.mixer.music.get_busy():
-                self.next_track()
-            time.sleep(1)
-
-    def monitor_playback(self):
-        # Monitor music playback in a background thread.
-        while True:
             try:
                 if not self.paused and not pygame.mixer.music.get_busy():
                     self.next_track()
