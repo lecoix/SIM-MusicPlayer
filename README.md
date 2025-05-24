@@ -4,7 +4,7 @@
 
 Requirements
 -------  
-  Python 3.x<br>
+  Python 3.6+<br>
   pygame(pip install pygame)<br>
   wcswidth (pip install wcswidth)
 
